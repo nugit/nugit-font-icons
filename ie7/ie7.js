@@ -13,6 +13,9 @@
 		el.innerHTML = '<span style="font-family: \'Nugit-Icon-Font\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'ng-drive-document': '&#xe61e;',
+		'ng-drive-drawing': '&#xe61f;',
+		'ng-arrow-drop-right': '&#xe61d;',
 		'ng-add': '&#xe600;',
 		'ng-arrow-back': '&#xe601;',
 		'ng-arrow-drop-up': '&#xe602;',

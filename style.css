@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Nugit-Icon-Font';
-	src:url('fonts/Nugit-Icon-Font.eot?2cg3hm');
-	src:url('fonts/Nugit-Icon-Font.eot?#iefix2cg3hm') format('embedded-opentype'),
-		url('fonts/Nugit-Icon-Font.ttf?2cg3hm') format('truetype'),
-		url('fonts/Nugit-Icon-Font.woff?2cg3hm') format('woff'),
-		url('fonts/Nugit-Icon-Font.svg?2cg3hm#Nugit-Icon-Font') format('svg');
+	src:url('fonts/Nugit-Icon-Font.eot?-ai6yrb');
+	src:url('fonts/Nugit-Icon-Font.eot?-ai6yrb#iefix') format('embedded-opentype'),
+		url('fonts/Nugit-Icon-Font.ttf?-ai6yrb') format('truetype'),
+		url('fonts/Nugit-Icon-Font.woff?-ai6yrb') format('woff'),
+		url('fonts/Nugit-Icon-Font.svg?-ai6yrb#Nugit-Icon-Font') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,6 +23,15 @@ i {
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.ng-drive-document:before {
+	content: "\e61e";
+}
+.ng-drive-drawing:before {
+	content: "\e61f";
+}
+.ng-arrow-drop-right:before {
+	content: "\e61d";
+}
 .ng-add:before {
 	content: "\e600";
 }
@@ -110,3 +119,4 @@ i {
 .ng-warning:before {
 	content: "\e61c";
 }
+
