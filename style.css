@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Nugit-Icon-Font';
-	src:url('fonts/Nugit-Icon-Font.eot?-ai6yrb');
-	src:url('fonts/Nugit-Icon-Font.eot?-ai6yrb#iefix') format('embedded-opentype'),
-		url('fonts/Nugit-Icon-Font.ttf?-ai6yrb') format('truetype'),
-		url('fonts/Nugit-Icon-Font.woff?-ai6yrb') format('woff'),
-		url('fonts/Nugit-Icon-Font.svg?-ai6yrb#Nugit-Icon-Font') format('svg');
+	src:url('fonts/Nugit-Icon-Font.eot?ybered');
+	src:url('fonts/Nugit-Icon-Font.eot?ybered#iefix') format('embedded-opentype'),
+		url('fonts/Nugit-Icon-Font.ttf?ybered') format('truetype'),
+		url('fonts/Nugit-Icon-Font.woff?ybered') format('woff'),
+		url('fonts/Nugit-Icon-Font.svg?ybered#Nugit-Icon-Font') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,11 +23,23 @@ i {
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.ng-drive-document:before {
-	content: "\e61e";
+.ng-invite:before {
+	content: "\e900";
 }
-.ng-drive-drawing:before {
-	content: "\e61f";
+.ng-phone:before {
+	content: "\e901";
+}
+.ng-check-circle-outline:before {
+	content: "\e902";
+}
+.ng-group:before {
+	content: "\e903";
+}
+.ng-laptop:before {
+	content: "\e904";
+}
+.ng-tablet:before {
+	content: "\e905";
 }
 .ng-arrow-drop-right:before {
 	content: "\e61d";

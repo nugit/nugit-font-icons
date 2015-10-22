@@ -13,8 +13,12 @@
 		el.innerHTML = '<span style="font-family: \'Nugit-Icon-Font\'">' + entity + '</span>' + html;
 	}
 	var icons = {
-		'ng-drive-document': '&#xe61e;',
-		'ng-drive-drawing': '&#xe61f;',
+		'ng-invite': '&#xe900;',
+		'ng-phone': '&#xe901;',
+		'ng-check-circle-outline': '&#xe902;',
+		'ng-group': '&#xe903;',
+		'ng-laptop': '&#xe904;',
+		'ng-tablet': '&#xe905;',
 		'ng-arrow-drop-right': '&#xe61d;',
 		'ng-add': '&#xe600;',
 		'ng-arrow-back': '&#xe601;',

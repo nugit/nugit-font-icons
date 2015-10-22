@@ -1,8 +1,20 @@
-.ng-drive-document {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe61e;');
+.ng-invite {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
 }
-.ng-drive-drawing {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe61f;');
+.ng-phone {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe901;');
+}
+.ng-check-circle-outline {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe902;');
+}
+.ng-group {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe903;');
+}
+.ng-laptop {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe904;');
+}
+.ng-tablet {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe905;');
 }
 .ng-arrow-drop-right {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe61d;');
