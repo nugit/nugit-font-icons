@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Nugit-Icon-Font';
-	src:url('fonts/Nugit-Icon-Font.eot?ybered');
-	src:url('fonts/Nugit-Icon-Font.eot?ybered#iefix') format('embedded-opentype'),
-		url('fonts/Nugit-Icon-Font.ttf?ybered') format('truetype'),
-		url('fonts/Nugit-Icon-Font.woff?ybered') format('woff'),
-		url('fonts/Nugit-Icon-Font.svg?ybered#Nugit-Icon-Font') format('svg');
+	src:url('fonts/Nugit-Icon-Font.eot?1db2tj');
+	src:url('fonts/Nugit-Icon-Font.eot?1db2tj#iefix') format('embedded-opentype'),
+		url('fonts/Nugit-Icon-Font.ttf?1db2tj') format('truetype'),
+		url('fonts/Nugit-Icon-Font.woff?1db2tj') format('woff'),
+		url('fonts/Nugit-Icon-Font.svg?1db2tj#Nugit-Icon-Font') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,8 +23,14 @@ i {
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.ng-invite:before {
+.ng-Invite:before {
+	content: "\e906";
+}
+.ng-edit:before {
 	content: "\e900";
+}
+.ng-sort:before {
+	content: "\e907";
 }
 .ng-phone:before {
 	content: "\e901";
@@ -118,12 +124,6 @@ i {
 }
 .ng-settings:before {
 	content: "\e618";
-}
-.ng-shopping-basket:before {
-	content: "\e619";
-}
-.ng-shopping-cart:before {
-	content: "\e61a";
 }
 .ng-sms:before {
 	content: "\e61b";

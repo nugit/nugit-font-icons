@@ -13,7 +13,9 @@
 		el.innerHTML = '<span style="font-family: \'Nugit-Icon-Font\'">' + entity + '</span>' + html;
 	}
 	var icons = {
-		'ng-invite': '&#xe900;',
+		'ng-Invite': '&#xe906;',
+		'ng-edit': '&#xe900;',
+		'ng-sort': '&#xe907;',
 		'ng-phone': '&#xe901;',
 		'ng-check-circle-outline': '&#xe902;',
 		'ng-group': '&#xe903;',
@@ -45,8 +47,6 @@
 		'ng-search': '&#xe616;',
 		'ng-send': '&#xe617;',
 		'ng-settings': '&#xe618;',
-		'ng-shopping-basket': '&#xe619;',
-		'ng-shopping-cart': '&#xe61a;',
 		'ng-sms': '&#xe61b;',
 		'ng-warning': '&#xe61c;',
 		'0': 0
