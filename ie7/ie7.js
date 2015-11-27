@@ -13,6 +13,10 @@
 		el.innerHTML = '<span style="font-family: \'Nugit-Icon-Font\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'ng-keyboard-arrow-down': '&#xe908;',
+		'ng-keyboard-arrow-left': '&#xe909;',
+		'ng-keyboard-arrow-right': '&#xe90a;',
+		'ng-keyboard-arrow-up': '&#xe90b;',
 		'ng-Invite': '&#xe906;',
 		'ng-edit': '&#xe900;',
 		'ng-sort': '&#xe907;',

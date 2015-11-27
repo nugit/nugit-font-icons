@@ -1,16 +1,17 @@
 @font-face {
 	font-family: 'Nugit-Icon-Font';
-	src:url('fonts/Nugit-Icon-Font.eot?1db2tj');
-	src:url('fonts/Nugit-Icon-Font.eot?1db2tj#iefix') format('embedded-opentype'),
-		url('fonts/Nugit-Icon-Font.ttf?1db2tj') format('truetype'),
-		url('fonts/Nugit-Icon-Font.woff?1db2tj') format('woff'),
-		url('fonts/Nugit-Icon-Font.svg?1db2tj#Nugit-Icon-Font') format('svg');
+	src:url('fonts/Nugit-Icon-Font.eot?8bb807');
+	src:url('fonts/Nugit-Icon-Font.eot?8bb807#iefix') format('embedded-opentype'),
+		url('fonts/Nugit-Icon-Font.ttf?8bb807') format('truetype'),
+		url('fonts/Nugit-Icon-Font.woff?8bb807') format('woff'),
+		url('fonts/Nugit-Icon-Font.svg?8bb807#Nugit-Icon-Font') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 i {
-	font-family: 'Nugit-Icon-Font';
+    /* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'Nugit-Icon-Font' !important;
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -23,6 +24,18 @@ i {
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.ng-keyboard-arrow-down:before {
+	content: "\e908";
+}
+.ng-keyboard-arrow-left:before {
+	content: "\e909";
+}
+.ng-keyboard-arrow-right:before {
+	content: "\e90a";
+}
+.ng-keyboard-arrow-up:before {
+	content: "\e90b";
+}
 .ng-Invite:before {
 	content: "\e906";
 }
