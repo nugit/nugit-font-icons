@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'icomoon';
-    src:    url('fonts/icomoon.eot?4jddz4');
-    src:    url('fonts/icomoon.eot?4jddz4#iefix') format('embedded-opentype'),
-        url('fonts/icomoon.ttf?4jddz4') format('truetype'),
-        url('fonts/icomoon.woff?4jddz4') format('woff'),
-        url('fonts/icomoon.svg?4jddz4#icomoon') format('svg');
+    src:    url('fonts/icomoon.eot?ctwdqj');
+    src:    url('fonts/icomoon.eot?ctwdqj#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?ctwdqj') format('truetype'),
+        url('fonts/icomoon.woff?ctwdqj') format('woff'),
+        url('fonts/icomoon.svg?ctwdqj#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="ng-"], [class*=" ng-"] {
     /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'icomoon' !important;
     speak: none;
@@ -24,124 +24,124 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-add:before {
+.ng-add:before {
     content: "\e900";
 }
-.icon-arrow-back:before {
+.ng-arrow-back:before {
     content: "\e901";
 }
-.icon-arrow-drop-right:before {
+.ng-arrow-drop-right:before {
     content: "\e902";
 }
-.icon-arrow-drop-up:before {
+.ng-arrow-drop-up:before {
     content: "\e903";
 }
-.icon-arrow-forward:before {
+.ng-arrow-forward:before {
     content: "\e904";
 }
-.icon-check-box:before {
+.ng-check-box:before {
     content: "\e905";
 }
-.icon-check-circle-outline:before {
+.ng-check-circle-outline:before {
     content: "\e906";
 }
-.icon-check:before {
+.ng-check:before {
     content: "\e907";
 }
-.icon-clear:before {
+.ng-clear:before {
     content: "\e908";
 }
-.icon-credit-card:before {
+.ng-credit-card:before {
     content: "\e909";
 }
-.icon-default-avatar:before {
+.ng-default-avatar:before {
     content: "\e90a";
 }
-.icon-delete:before {
+.ng-delete:before {
     content: "\e90b";
 }
-.icon-download:before {
+.ng-download:before {
     content: "\e90c";
 }
-.icon-drive-ms-powerpoint-copy:before {
+.ng-drive-ms-powerpoint-copy:before {
     content: "\e90d";
 }
-.icon-edit:before {
+.ng-edit:before {
     content: "\e90e";
 }
-.icon-error:before {
+.ng-error:before {
     content: "\e90f";
 }
-.icon-event:before {
+.ng-event:before {
     content: "\e910";
 }
-.icon-expand:before {
+.ng-expand:before {
     content: "\e911";
 }
-.icon-filter:before {
+.ng-filter:before {
     content: "\e912";
 }
-.icon-group:before {
+.ng-group:before {
     content: "\e913";
 }
-.icon-help:before {
+.ng-help:before {
     content: "\e914";
 }
-.icon-invite:before {
+.ng-invite:before {
     content: "\e915";
 }
-.icon-keyboard-arrow-down:before {
+.ng-keyboard-arrow-down:before {
     content: "\e916";
 }
-.icon-keyboard-arrow-left:before {
+.ng-keyboard-arrow-left:before {
     content: "\e917";
 }
-.icon-keyboard-arrow-right:before {
+.ng-keyboard-arrow-right:before {
     content: "\e918";
 }
-.icon-keyboard-arrow-up:before {
+.ng-keyboard-arrow-up:before {
     content: "\e919";
 }
-.icon-laptop:before {
+.ng-laptop:before {
     content: "\e91a";
 }
-.icon-mail:before {
+.ng-mail:before {
     content: "\e91b";
 }
-.icon-menu:before {
+.ng-menu:before {
     content: "\e91c";
 }
-.icon-more-vert:before {
+.ng-more-vert:before {
     content: "\e91d";
 }
-.icon-news:before {
+.ng-news:before {
     content: "\e91e";
 }
-.icon-phone:before {
+.ng-phone:before {
     content: "\e91f";
 }
-.icon-remove:before {
+.ng-remove:before {
     content: "\e920";
 }
-.icon-reply:before {
+.ng-reply:before {
     content: "\e921";
 }
-.icon-search:before {
+.ng-search:before {
     content: "\e922";
 }
-.icon-send:before {
+.ng-send:before {
     content: "\e923";
 }
-.icon-settings:before {
+.ng-settings:before {
     content: "\e924";
 }
-.icon-sort:before {
+.ng-sort:before {
     content: "\e925";
 }
-.icon-tablet:before {
+.ng-tablet:before {
     content: "\e926";
 }
-.icon-warning:before {
+.ng-warning:before {
     content: "\e927";
 }
 
