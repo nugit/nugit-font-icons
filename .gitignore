@@ -1,0 +1,20 @@
+.env
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Folders to ignore
+.hg
+.svn
+.CVS
+.idea
+pids
+logs
+results
+dist
