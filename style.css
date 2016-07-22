@@ -1,147 +1,147 @@
 @font-face {
-	font-family: 'Nugit-Icon-Font';
-	src:url('fonts/Nugit-Icon-Font.eot?8bb807');
-	src:url('fonts/Nugit-Icon-Font.eot?8bb807#iefix') format('embedded-opentype'),
-		url('fonts/Nugit-Icon-Font.ttf?8bb807') format('truetype'),
-		url('fonts/Nugit-Icon-Font.woff?8bb807') format('woff'),
-		url('fonts/Nugit-Icon-Font.svg?8bb807#Nugit-Icon-Font') format('svg');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'icomoon';
+    src:    url('fonts/icomoon.eot?4jddz4');
+    src:    url('fonts/icomoon.eot?4jddz4#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?4jddz4') format('truetype'),
+        url('fonts/icomoon.woff?4jddz4') format('woff'),
+        url('fonts/icomoon.svg?4jddz4#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
-i {
+[class^="icon-"], [class*=" icon-"] {
     /* use !important to prevent issues with browser extensions that change fonts */
-	font-family: 'Nugit-Icon-Font' !important;
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
 
-	/* Better Font Rendering =========== */
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
-.ng-keyboard-arrow-down:before {
-	content: "\e908";
+.icon-add:before {
+    content: "\e900";
 }
-.ng-keyboard-arrow-left:before {
-	content: "\e909";
+.icon-arrow-back:before {
+    content: "\e901";
 }
-.ng-keyboard-arrow-right:before {
-	content: "\e90a";
+.icon-arrow-drop-right:before {
+    content: "\e902";
 }
-.ng-keyboard-arrow-up:before {
-	content: "\e90b";
+.icon-arrow-drop-up:before {
+    content: "\e903";
 }
-.ng-Invite:before {
-	content: "\e906";
+.icon-arrow-forward:before {
+    content: "\e904";
 }
-.ng-edit:before {
-	content: "\e900";
+.icon-check-box:before {
+    content: "\e905";
 }
-.ng-sort:before {
-	content: "\e907";
+.icon-check-circle-outline:before {
+    content: "\e906";
 }
-.ng-phone:before {
-	content: "\e901";
+.icon-check:before {
+    content: "\e907";
 }
-.ng-check-circle-outline:before {
-	content: "\e902";
+.icon-clear:before {
+    content: "\e908";
 }
-.ng-group:before {
-	content: "\e903";
+.icon-credit-card:before {
+    content: "\e909";
 }
-.ng-laptop:before {
-	content: "\e904";
+.icon-default-avatar:before {
+    content: "\e90a";
 }
-.ng-tablet:before {
-	content: "\e905";
+.icon-delete:before {
+    content: "\e90b";
 }
-.ng-arrow-drop-right:before {
-	content: "\e61d";
+.icon-download:before {
+    content: "\e90c";
 }
-.ng-add:before {
-	content: "\e600";
+.icon-drive-ms-powerpoint-copy:before {
+    content: "\e90d";
 }
-.ng-arrow-back:before {
-	content: "\e601";
+.icon-edit:before {
+    content: "\e90e";
 }
-.ng-arrow-drop-up:before {
-	content: "\e602";
+.icon-error:before {
+    content: "\e90f";
 }
-.ng-arrow-forward:before {
-	content: "\e603";
+.icon-event:before {
+    content: "\e910";
 }
-.ng-check-box:before {
-	content: "\e604";
+.icon-expand:before {
+    content: "\e911";
 }
-.ng-check:before {
-	content: "\e605";
+.icon-filter:before {
+    content: "\e912";
 }
-.ng-clear:before {
-	content: "\e606";
+.icon-group:before {
+    content: "\e913";
 }
-.ng-credit-card:before {
-	content: "\e607";
+.icon-help:before {
+    content: "\e914";
 }
-.ng-delete:before {
-	content: "\e608";
+.icon-invite:before {
+    content: "\e915";
 }
-.ng-drive-ms-powerpointcopy:before {
-	content: "\e609";
+.icon-keyboard-arrow-down:before {
+    content: "\e916";
 }
-.ng-error:before {
-	content: "\e60a";
+.icon-keyboard-arrow-left:before {
+    content: "\e917";
 }
-.ng-event:before {
-	content: "\e60b";
+.icon-keyboard-arrow-right:before {
+    content: "\e918";
 }
-.ng-filter:before {
-	content: "\e60c";
+.icon-keyboard-arrow-up:before {
+    content: "\e919";
 }
-.ng-headset-mic:before {
-	content: "\e60d";
+.icon-laptop:before {
+    content: "\e91a";
 }
-.ng-help:before {
-	content: "\e60e";
+.icon-mail:before {
+    content: "\e91b";
 }
-.ng-mail:before {
-	content: "\e60f";
+.icon-menu:before {
+    content: "\e91c";
 }
-.ng-menu:before {
-	content: "\e610";
+.icon-more-vert:before {
+    content: "\e91d";
 }
-.ng-more-horiz:before {
-	content: "\e611";
+.icon-news:before {
+    content: "\e91e";
 }
-.ng-more-vert:before {
-	content: "\e612";
+.icon-phone:before {
+    content: "\e91f";
 }
-.ng-news:before {
-	content: "\e613";
+.icon-remove:before {
+    content: "\e920";
 }
-.ng-remove:before {
-	content: "\e614";
+.icon-reply:before {
+    content: "\e921";
 }
-.ng-reply:before {
-	content: "\e615";
+.icon-search:before {
+    content: "\e922";
 }
-.ng-search:before {
-	content: "\e616";
+.icon-send:before {
+    content: "\e923";
 }
-.ng-send:before {
-	content: "\e617";
+.icon-settings:before {
+    content: "\e924";
 }
-.ng-settings:before {
-	content: "\e618";
+.icon-sort:before {
+    content: "\e925";
 }
-.ng-sms:before {
-	content: "\e61b";
+.icon-tablet:before {
+    content: "\e926";
 }
-.ng-warning:before {
-	content: "\e61c";
+.icon-warning:before {
+    content: "\e927";
 }
 
