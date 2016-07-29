@@ -1,147 +1,150 @@
 @font-face {
-    font-family: 'icomoon';
-    src:    url('fonts/icomoon.eot?ctwdqj');
-    src:    url('fonts/icomoon.eot?ctwdqj#iefix') format('embedded-opentype'),
-        url('fonts/icomoon.ttf?ctwdqj') format('truetype'),
-        url('fonts/icomoon.woff?ctwdqj') format('woff'),
-        url('fonts/icomoon.svg?ctwdqj#icomoon') format('svg');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'Nugit-Font-Icon';
+  src:  url('fonts/Nugit-Font-Icon.eot?zctdsp');
+  src:  url('fonts/Nugit-Font-Icon.eot?zctdsp#iefix') format('embedded-opentype'),
+    url('fonts/Nugit-Font-Icon.ttf?zctdsp') format('truetype'),
+    url('fonts/Nugit-Font-Icon.woff?zctdsp') format('woff'),
+    url('fonts/Nugit-Font-Icon.svg?zctdsp#Nugit-Font-Icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
 [class^="ng-"], [class*=" ng-"] {
-    /* use !important to prevent issues with browser extensions that change fonts */
-    font-family: 'icomoon' !important;
-    speak: none;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Nugit-Font-Icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
 
-    /* Better Font Rendering =========== */
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
+.ng-preview:before {
+  content: "\e928";
+}
 .ng-add:before {
-    content: "\e900";
+  content: "\e900";
 }
 .ng-arrow-back:before {
-    content: "\e901";
+  content: "\e901";
 }
 .ng-arrow-drop-right:before {
-    content: "\e902";
+  content: "\e902";
 }
 .ng-arrow-drop-up:before {
-    content: "\e903";
+  content: "\e903";
 }
 .ng-arrow-forward:before {
-    content: "\e904";
+  content: "\e904";
 }
 .ng-check-box:before {
-    content: "\e905";
+  content: "\e905";
 }
 .ng-check-circle-outline:before {
-    content: "\e906";
+  content: "\e906";
 }
 .ng-check:before {
-    content: "\e907";
+  content: "\e907";
 }
 .ng-clear:before {
-    content: "\e908";
+  content: "\e908";
 }
 .ng-credit-card:before {
-    content: "\e909";
+  content: "\e909";
 }
 .ng-default-avatar:before {
-    content: "\e90a";
+  content: "\e90a";
 }
 .ng-delete:before {
-    content: "\e90b";
+  content: "\e90b";
 }
 .ng-download:before {
-    content: "\e90c";
+  content: "\e90c";
 }
 .ng-drive-ms-powerpoint-copy:before {
-    content: "\e90d";
+  content: "\e90d";
 }
 .ng-edit:before {
-    content: "\e90e";
+  content: "\e90e";
 }
 .ng-error:before {
-    content: "\e90f";
+  content: "\e90f";
 }
 .ng-event:before {
-    content: "\e910";
+  content: "\e910";
 }
 .ng-expand:before {
-    content: "\e911";
+  content: "\e911";
 }
 .ng-filter:before {
-    content: "\e912";
+  content: "\e912";
 }
 .ng-group:before {
-    content: "\e913";
+  content: "\e913";
 }
 .ng-help:before {
-    content: "\e914";
+  content: "\e914";
 }
 .ng-invite:before {
-    content: "\e915";
+  content: "\e915";
 }
 .ng-keyboard-arrow-down:before {
-    content: "\e916";
+  content: "\e916";
 }
 .ng-keyboard-arrow-left:before {
-    content: "\e917";
+  content: "\e917";
 }
 .ng-keyboard-arrow-right:before {
-    content: "\e918";
+  content: "\e918";
 }
 .ng-keyboard-arrow-up:before {
-    content: "\e919";
+  content: "\e919";
 }
 .ng-laptop:before {
-    content: "\e91a";
+  content: "\e91a";
 }
 .ng-mail:before {
-    content: "\e91b";
+  content: "\e91b";
 }
 .ng-menu:before {
-    content: "\e91c";
+  content: "\e91c";
 }
 .ng-more-vert:before {
-    content: "\e91d";
+  content: "\e91d";
 }
 .ng-news:before {
-    content: "\e91e";
+  content: "\e91e";
 }
 .ng-phone:before {
-    content: "\e91f";
+  content: "\e91f";
 }
 .ng-remove:before {
-    content: "\e920";
+  content: "\e920";
 }
 .ng-reply:before {
-    content: "\e921";
+  content: "\e921";
 }
 .ng-search:before {
-    content: "\e922";
+  content: "\e922";
 }
 .ng-send:before {
-    content: "\e923";
+  content: "\e923";
 }
 .ng-settings:before {
-    content: "\e924";
+  content: "\e924";
 }
 .ng-sort:before {
-    content: "\e925";
+  content: "\e925";
 }
 .ng-tablet:before {
-    content: "\e926";
+  content: "\e926";
 }
 .ng-warning:before {
-    content: "\e927";
+  content: "\e927";
 }
 
