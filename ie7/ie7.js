@@ -10,9 +10,10 @@
 (function() {
 	function addIcon(el, entity) {
 		var html = el.innerHTML;
-		el.innerHTML = '<span style="font-family: \'icomoon\'">' + entity + '</span>' + html;
+		el.innerHTML = '<span style="font-family: \'Nugit-Font-Icon\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'ng-preview': '&#xe928;',
 		'ng-add': '&#xe900;',
 		'ng-arrow-back': '&#xe901;',
 		'ng-arrow-drop-right': '&#xe902;',
